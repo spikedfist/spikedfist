@@ -1,4 +1,4 @@
-<p align="center"> <img width="100" src="https://komarev.com/ghpvc/?username=moyarg&color=blue" alt="view counter">
+<p align="center"> <img width="100" src="https://komarev.com/ghpvc/?username=spikedfist&color=blue" alt="view counter">
 <p align="center"> <img width="265" src="https://64.media.tumblr.com/a94345f38c71e34e497904439b811b41/95875565ce1cee9d-0b/s500x750/5d70731fbbba8101e920e9789ab2c7dbace1a2cc.pnj" alt="">
 <p align="center"> 
   17 | HE/HIM | GRUNGE
