@@ -6,3 +6,4 @@
 <p align="center"> 
   BASIC DNI | SIGN STRAWPAGE / ATABOOK
 <p align="center"> <img width="265" src="https://64.media.tumblr.com/3745b01dbad7c11da40aa9be6b7e544b/053cac1d8bf168c8-34/s500x750/ffea84f5580c42740839ed052be37e8bfcb445bc.pnj" alt="">
+<p[![spotify-github-profile] (https://spotify-github-profile.kittinanx.com/api/view?uid=31oew5eeysprdpojggoevq2ipbmm&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
